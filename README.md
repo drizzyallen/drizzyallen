@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drizzyallen
 - 👀 I’m interested in ... Artificial Intelligence, web and mobile app development.
-- 🌱 I’m currently learning how to develop application and collaborating using github and using AI into projects.
+- 🌱 I’m currently learning how to develop application and collaborating using github and integrating AI into projects.
 - 💞️ I’m looking to collaborate on fun innovative projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
