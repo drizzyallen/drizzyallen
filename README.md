@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Artificial Intelligence, web, game and mobile app development.
 - 🌱 I’m currently learning how to develop application and collaborating using github and integrating AI into projects.
 - 💞️ I’m looking to collaborate on fun innovative projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... allenram.15@yahoo.com 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am a Freshman year computer science student 
 
